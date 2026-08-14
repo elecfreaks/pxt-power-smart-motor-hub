@@ -1,0 +1,28 @@
+{
+    "name": "pxt-power-smart-motor-hub",
+    "version": "0.0.0",
+    "description": "Power Smart Motor Hub extension for MakeCode micro:bit",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/pxt-smartmotor-strings.json",
+        "_locales/pxt-smartmotor-jsdoc-strings.json",
+        "_locales/zh/pxt-smartmotor-strings.json",
+        "_locales/zh/pxt-smartmotor-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "targetVersions": {
+        "target": "9.0.8",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
