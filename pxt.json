@@ -8,10 +8,10 @@
     "files": [
         "README.md",
         "main.ts",
-        "_locales/pxt-smartmotor-strings.json",
-        "_locales/pxt-smartmotor-jsdoc-strings.json",
-        "_locales/zh/pxt-smartmotor-strings.json",
-        "_locales/zh/pxt-smartmotor-jsdoc-strings.json"
+        "_locales/pxt-power-smart-motor-hub-strings.json",
+        "_locales/pxt-power-smart-motor-hub-jsdoc-strings.json",
+        "_locales/zh/pxt-power-smart-motor-hub-strings.json",
+        "_locales/zh/pxt-power-smart-motor-hub-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
